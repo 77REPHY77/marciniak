@@ -1,0 +1,5 @@
+Chleb 2 200 
+Maliny 3 300 
+Banany 2 400 
+Dzem 2 140
+Czekolada 2 800
